@@ -14,11 +14,11 @@ require any undergraduate background. That's why I'm here at Humber even though 
 *However*, I don't think I'm lack of confidence when being compared to other experienced developers. They surely know more but I have great passion and desire to learn and practice more.
 
 I have been studying at the most popular languages: 
-*JAVA 
-*C# 
-*Javascript 
-*PHP 
-*Swift
+* JAVA 
+* C# 
+* Javascript 
+* PHP 
+* Swift
 
 So far, I have successfully finished several light-weight projects with my groups and I really learned a lot.
 
