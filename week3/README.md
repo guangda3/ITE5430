@@ -31,13 +31,14 @@ run the following command
 commit and push the new branch to the remote repo
 
 
-![test](https://github.com/guangda3/ITE5430/blob/week3/week3/snapshots/buildApplication.PNG)
 
 
 ## Week#4 assignment accomplishing steps:
 
 ### First, open up docker and run the mongoDB. remove it first if it's already exited
 see the snapshot "DB_connection" for more details
+
+![DB_connection](https://github.com/guangda3/ITE5430/blob/week3/week3/snapshots/DB_connection.PNG)
 
 ### populate the mongoDB with the json formatted data. I use the sampledata.js file to fast populate the mongoDB
 see the snapshot "populateDB.png" for more details
