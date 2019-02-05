@@ -31,7 +31,7 @@ run the following command
 commit and push the new branch to the remote repo
 
 
-![Tang](https://github.com/Tang/ITE5430/week3/snapshots/buildApplication.png)
+![test](https://github.com/guangda3/ITE5430/blob/week3/week3/snapshots/buildApplication.PNG)
 
 
 ## Week#4 assignment accomplishing steps:
