@@ -29,6 +29,9 @@ run the following command
     ```
 	
 commit and push the new branch to the remote repo
+
+
+![Tang](https://oddlylabs.com/Tang/ITE5430/week3/snapshots/buildApplication?s=150)
 	
 	
 	
